@@ -6,7 +6,8 @@ import "./style.css";
 // import './topics/05-basic-destructuring.ts'
 // import './topics/06-function-destructuring.ts'
 // import './topics/07-import-exports.ts'
-import "./topics/08-classes.ts";
+// import "./topics/08-classes.ts";
+import "./topics/09-generics.ts";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   Hola Mundo
